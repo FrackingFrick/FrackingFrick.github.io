@@ -1,0 +1,44 @@
+body {
+    background-color: bisque;
+    margin: 50px;
+}
+h1 {
+    color: rgb(63, 38, 2);
+    background-color: rgba(95, 158, 160, 0.5);
+    width: 600px;
+    padding: 20px;
+
+}
+h2{
+    color: rgb(63, 38, 2);
+}
+h3{
+    color: rgb(63, 38, 2);
+    background-color: rgba(95, 158, 160, 0.5);
+    height: 30px;
+    padding: 10;
+}
+a{
+    color: royalblue;
+    display: inline-block;
+    
+}
+div{
+    display: inline-block;
+}
+img {
+    height: 400px;
+    display: block ;
+     
+}
+p{
+    color: rgb(63, 38, 2);
+    line-height: 150%;
+    margin: auto;
+    padding: 30px;
+    
+}
+ul{
+    color: rgb(63, 38, 2);
+    background-color: rgba(95, 158, 160, 0.5);
+}
